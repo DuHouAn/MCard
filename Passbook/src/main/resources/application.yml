@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: Southeast-Passbook
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/passbook?autoReconnect=true
+    username: root
+    password: root
+  kafka:
+    bootstrap-servers: 192.168.88.128:9092
+    consumer:
+      group-id: passbook
+    listener:
+      concurrency: 4
+  data:
+    hbase:
+      quorum: 192.168.88.128:2181
+      rootDir: hdfs://192.168.88.128:9000/hbase
+      nodeParent: /hbase
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+server:
+  port: 9528
+
+logging:
+  file: southeast-passbook.log
+  level: debug
