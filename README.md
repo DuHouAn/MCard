@@ -9,61 +9,9 @@
 
 ## 需求分析
 
-### 卡包应用概览
-
-> 什么是卡包应用
-
-卡券收集、聚合类应用。
-
-手机上的小米卡包（未领取）：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_1.png" width="300px"/></div>
-
-手机上的小米卡包（已领取）：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_2.png" width="300px"/></div>
-
-> 卡包应用包括的子系统
-
-- 商户投放子系统（商户开放平台）
-
-- 用户应用子系统（用户使用入口）
-
-> 优惠券的使用方法
-
-- 展示型
-
-- 兑换型
-
-- token 核销型：优惠券带有 token 标识
-
-### 商户开放平台
-
-商户接口字段：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_3.png" width="650px"/></div>
-
-优惠券接口字段：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_4.png"/></div>
-
-### 用户使用入口
-
-用户优惠券详细信息：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_5.png" width="300px"/></div>
-
-过期优惠券：
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_6.png" width="300px"/></div>
-
-优惠券库存：展示用户未领取但是可领取的优惠券。
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_1.png" width="300px"/></div>
-
-用户反馈：优惠券本身的相关问题和我的卡包这款 App 相关问题。
-
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_7.png" width="300px"/></div>
+- [卡包应用概览](https://github.com/DuHouAn/MCard/blob/master/notes/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md#%E5%8D%A1%E5%8C%85%E5%BA%94%E7%94%A8%E6%A6%82%E8%A7%88)
+- [商户开放平台](https://github.com/DuHouAn/MCard/blob/master/notes/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md#%E5%95%86%E6%88%B7%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0)
+- [用户使用入口](https://github.com/DuHouAn/MCard/blob/master/notes/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md#%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3)
 
 ## 技术架构
 
