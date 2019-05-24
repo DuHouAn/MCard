@@ -15,19 +15,11 @@
 
 ## 技术架构
 
-> **应用架构设计**
+- [应用架构设计](https://github.com/DuHouAn/MCard/blob/master/notes/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md#%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)
 
-<div align="center"><img src="https://gitee.com/duhouan/ImagePro/raw/master/mcard/m_8.png"/></div>
+- [缓存层设计](https://github.com/DuHouAn/MCard/blob/master/notes/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md#%E7%BC%93%E5%AD%98%E5%B1%82%E8%AE%BE%E8%AE%A1)
 
-> **缓存层设计**
-
-
-
-
-
-> **表结构设计**
-
-
+- [表结构设计](https://github.com/DuHouAn/MCard/blob/master/notes/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md#%E8%A1%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1)
 
 ## 商户子系统
 
