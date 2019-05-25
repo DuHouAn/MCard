@@ -8,9 +8,9 @@ public class Constants {
     // 商户优惠券投放的 Kafka Topic
     public static final String TEMPLATE_TOPIC = "merchant-template";
 
-    // token_string  --> 用来颁发给商户
+    // token_string
     public static final String TOKEN_STRING = "token";
 
-    // token_info --> 用来颁发给商户
+    // token_info
     public static final String TOKEN = "southeast-passbook-merchants";
 }
