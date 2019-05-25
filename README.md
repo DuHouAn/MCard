@@ -27,7 +27,11 @@
 
 ## 用户子系统
 
+
+
 ## 测试运行
 
 - 测试工具：Postman
 
+- [商户子系统测试](https://github.com/DuHouAn/MCard/blob/master/notes/%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C.md#%E5%95%86%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95)
+- [用户子系统测试](https://github.com/DuHouAn/MCard/blob/master/notes/%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C.md#%E7%94%A8%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95)
