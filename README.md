@@ -23,6 +23,13 @@
 
 ## 商户子系统
 
+> **功能实现**
+
+- 商户注册功能实现
+- 优惠券投放功能实现
+
+> **实现步骤**
+
 - [工程环境搭建](https://github.com/DuHouAn/MCard/blob/master/notes/%E5%95%86%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F.md#%E5%B7%A5%E7%A8%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 - [系统配置](https://github.com/DuHouAn/MCard/blob/master/notes/%E5%95%86%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F.md#%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE)
 - [常量定义](https://github.com/DuHouAn/MCard/blob/master/notes/%E5%95%86%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F.md#%E5%B8%B8%E9%87%8F%E5%AE%9A%E4%B9%89)
@@ -35,6 +42,19 @@
 - [请求验证](https://github.com/DuHouAn/MCard/blob/master/notes/%E5%95%86%E6%88%B7%E5%AD%90%E7%B3%BB%E7%BB%9F.md#%E8%AF%B7%E6%B1%82%E9%AA%8C%E8%AF%81)
 
 ## 用户子系统
+
+> **功能实现**
+
+- 优惠券库存功能实现
+- 优惠优惠券功能实现
+  * 可用优惠券功能实现
+  * 已使用优惠券功能实现
+  * 用户所有的优惠券
+  * 用户使用优惠券
+- 领取优惠券功能实现
+- 评论功能实现
+
+> **实现步骤**
 
 
 
