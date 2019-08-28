@@ -1,4 +1,4 @@
-<div align="center"><h1>仿小米卡包后台的分布式优惠券系统实现</h1></div>
+<div align="center"><h1>优惠券系统实现</h1></div>
 
 ## 开发环境
 
