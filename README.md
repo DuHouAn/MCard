@@ -2,9 +2,9 @@
 
 ## 开发环境
 
-- 基础工具：Maven、JDK8、[HBase](https://duhouan.github.io/2019/05/20/HBase%20%E5%AD%98%E5%82%A8%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)、[Kafka](https://duhouan.github.io/2019/05/19/Kafka/)、[MySQL](https://github.com/IvanLu1024/MyCards/blob/master/notes/database.md)
+- 基础工具：Maven、JDK8、HBase、Kafka、MySQL
 - 开发工具：Intellij IDEA
-- 缓存：[Redis](https://duhouan.github.io/2019/05/24/Redis/)
+- 缓存：Redis
 - 项目架构：SpringBoot
 
 ## 需求分析
